@@ -13,7 +13,7 @@ A `UIView` subclass that arranges subviews on the surface of a virtual sphere us
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/noahplutzer/swift-sphere-view", from: "1.0.0")
+    .package(url: "https://github.com/DerNoah/swift-sphere-view", from: "1.0.0")
 ]
 ```
 
